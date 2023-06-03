@@ -2,6 +2,7 @@
 In summary here are the 20 pandas functions that can be used to accomplish most of your data tasks:
 
 pd.read_csv()
+pd.head()
 df.describe()
 df.info()
 df.plot()
