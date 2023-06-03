@@ -1,0 +1,23 @@
+# Data_Analysis
+In summary here are the 20 pandas functions that can be used to accomplish most of your data tasks:
+
+pd.read_csv()
+df.describe()
+df.info()
+df.plot()
+df.iloc()
+df.loc()
+df.assign()
+df.query()
+df.sort_values()
+df.sample()
+df.isnull()
+df.fillna()
+df.dropna()
+df.drop()
+pd.pivot_table()
+df.groupby()
+df.transpose()
+df.merge()
+df.rename()
+df.to_csv()
